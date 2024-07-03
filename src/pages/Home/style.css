@@ -1,6 +1,7 @@
 main div img {
-    margin-left:10%;
+    margin-left:20%;
 }
+
 main div p, h1{
     margin: 20px 0;
     max-width: 80%;
@@ -13,5 +14,4 @@ main div button{
     color: #fff;
     border-radius: 24px;
     height: 35px;
-    margin-right: 200px;
 }

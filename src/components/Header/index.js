@@ -12,13 +12,13 @@ const Header = () =>{
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                      <a class="nav-link active" aria-current="page"><Link to='/' style={{ textDecoration: 'none' }}>Home</Link></a>
+                      <a class="nav-link active" aria-current="page"><Link to='/' style={{ textDecoration: 'none', color: 'gray' }}>Home</Link></a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link active" aria-current="page"><Link to='/Service' style={{ textDecoration: 'none' }}>Service</Link></a>
+                    <a class="nav-link active" aria-current="page"><Link to='/Service' style={{ textDecoration: 'none',  color: 'gray' }}>Service</Link></a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link active" aria-current="page"><Link to='/Contato' style={{ textDecoration: 'none' }}>Contato</Link></a>
+                    <a class="nav-link active" aria-current="page"><Link to='/Contato' style={{ textDecoration: 'none', color: 'gray' }}>Contato</Link></a>
                     </li>
                   </ul>
                   <form class="d-flex" role="search">
