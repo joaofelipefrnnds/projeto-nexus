@@ -12,21 +12,20 @@ const Service = () =>{
                         <div class="widget-49">
                             <div class="widget-49-title-wrapper">
                                 <div class="widget-49-date-primary">
-                                    <span class="widget-49-date-day">09</span>
-                                    <span class="widget-49-date-month">apr</span>
+                                    <span class="widget-49-date-day">1</span>
+                                    <span class="widget-49-date-month">DEV</span>
                                 </div>
                                 <div class="widget-49-meeting-info">
                                     <span class="widget-49-pro-title">Desenvolvimento de Aplicações Web e Mobile</span>
-                                    <span class="widget-49-meeting-time">12:00 to 13.30 Hrs</span>
                                 </div>
                             </div>
                             <ol class="widget-49-meeting-points">
-                                <li class="widget-49-meeting-item"><span>Expand module is removed</span></li>
-                                <li class="widget-49-meeting-item"><span>Data migration is in scope</span></li>
-                                <li class="widget-49-meeting-item"><span>Session timeout increase to 30 minutes</span></li>
+                                <li class="widget-49-meeting-item"><span>Front-End</span></li>
+                                <li class="widget-49-meeting-item"><span>Back-End</span></li>
+                                <li class="widget-49-meeting-item"><span>Banco de Dados</span></li>
                             </ol>
                             <div class="widget-49-meeting-action">
-                                <a href="#" class="btn btn-sm btn-flash-border-primary">View All</a>
+                                <a href class="btn btn-sm btn-flash-border-primary">View All</a>
                             </div>
                         </div>
                     </div>
@@ -40,21 +39,20 @@ const Service = () =>{
                         <div class="widget-49">
                             <div class="widget-49-title-wrapper">
                                 <div class="widget-49-date-warning">
-                                    <span class="widget-49-date-day">13</span>
-                                    <span class="widget-49-date-month">apr</span>
+                                    <span class="widget-49-date-day">2</span>
+                                    <span class="widget-49-date-month">Deploy</span>
                                 </div>
                                 <div class="widget-49-meeting-info">
                                     <span class="widget-49-pro-title">Desenvolvimento de Software Personalizado</span>
-                                    <span class="widget-49-meeting-time">12:00 to 13.30 Hrs</span>
                                 </div>
                             </div>
                             <ol class="widget-49-meeting-points">
-                                <li class="widget-49-meeting-item"><span>Scheming module is removed</span></li>
-                                <li class="widget-49-meeting-item"><span>App design contract confirmed</span></li>
-                                <li class="widget-49-meeting-item"><span>Client request to send invoice</span></li>
+                                <li class="widget-49-meeting-item"><span>API</span></li>
+                                <li class="widget-49-meeting-item"><span>Deploy com Docker</span></li>
+                                <li class="widget-49-meeting-item"><span>Integração entre sistemas já existentes</span></li>
                             </ol>
                             <div class="widget-49-meeting-action">
-                                <a href="#" class="btn btn-sm btn-flash-border-warning">View All</a>
+                                <a href class="btn btn-sm btn-flash-border-warning">View All</a>
                             </div>
                         </div>
                     </div>
@@ -68,21 +66,20 @@ const Service = () =>{
                         <div class="widget-49">
                             <div class="widget-49-title-wrapper">
                                 <div class="widget-49-date-success">
-                                    <span class="widget-49-date-day">22</span>
-                                    <span class="widget-49-date-month">apr</span>
+                                    <span class="widget-49-date-day">3</span>
+                                    <span class="widget-49-date-month">CONSULT</span>
                                 </div>
                                 <div class="widget-49-meeting-info">
                                     <span class="widget-49-pro-title">Consultoria em Tecnologia</span>
-                                    <span class="widget-49-meeting-time">12:00 to 13.30 Hrs</span>
                                 </div>
                             </div>
                             <ol class="widget-49-meeting-points">
-                                <li class="widget-49-meeting-item"><span>Scope is revised and updated</span></li>
-                                <li class="widget-49-meeting-item"><span>Time-line has been changed</span></li>
-                                <li class="widget-49-meeting-item"><span>Received approval to start wire-frame</span></li>
+                                <li class="widget-49-meeting-item"><span>Planejamento e otimização de redes e servidores</span></li>
+                                <li class="widget-49-meeting-item"><span>Estratégias para adoção de novas tecnologias</span></li>
+                                <li class="widget-49-meeting-item"><span>Alinhamento da tecnologia com os objetivos de negócio, planejamento de TI.</span></li>
                             </ol>
                             <div class="widget-49-meeting-action">
-                                <a href="#" class="btn btn-sm btn-flash-border-success">View All</a>
+                                <a href class="btn btn-sm btn-flash-border-success">View All</a>
                             </div>
                         </div>
                     </div>
