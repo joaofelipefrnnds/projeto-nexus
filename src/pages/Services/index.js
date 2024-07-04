@@ -67,6 +67,89 @@ const Service = () =>{
                             <div class="widget-49-title-wrapper">
                                 <div class="widget-49-date-success">
                                     <span class="widget-49-date-day">3</span>
+                                    <span class="widget-49-date-month">MOBA</span>
+                                </div>
+                                <div class="widget-49-meeting-info">
+                                    <span class="widget-49-pro-title">Desenvolvimento de Aplicativos Móveis</span>
+                                </div>
+                            </div>
+                            <ol class="widget-49-meeting-points">
+                                <li class="widget-49-meeting-item"><span>Planejamento e Consultoria</span></li>
+                                <li class="widget-49-meeting-item"><span>Design de Interface do Usuário (UI/UX)</span></li>
+                                <li class="widget-49-meeting-item"><span>Análise e Otimização</span></li>
+                            </ol>
+                            <div class="widget-49-meeting-action">
+                                <a href class="btn btn-sm btn-flash-border-success">View All</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="card card-margin">
+                    <div class="card-header no-border">
+                    </div>
+                    <div class="card-body pt-0">
+                        <div class="widget-49">
+                            <div class="widget-49-title-wrapper">
+                                <div class="widget-49-date-primary">
+                                    <span class="widget-49-date-day">4</span>
+                                    <span class="widget-49-date-month">GAMES</span>
+                                </div>
+                                <div class="widget-49-meeting-info">
+                                    <span class="widget-49-pro-title">Desenvolvimento de Jogos</span>
+                                </div>
+                            </div>
+                            <ol class="widget-49-meeting-points">
+                                <li class="widget-49-meeting-item"><span>Desenvolvimento de Arte e Design Gráfico.</span></li>
+                                <li class="widget-49-meeting-item"><span>Desenvolvimento de Áudio</span></li>
+                                <li class="widget-49-meeting-item"><span>Suporte pós-lançamento</span></li>
+                            </ol>
+                            <div class="widget-49-meeting-action">
+                                <a href class="btn btn-sm btn-flash-border-success">View All</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card card-margin">
+                    <div class="card-header no-border">
+                    </div>
+                    <div class="card-body pt-0">
+                        <div class="widget-49">
+                            <div class="widget-49-title-wrapper">
+                                <div class="widget-49-date-warning">
+                                    <span class="widget-49-date-day">5</span>
+                                    <span class="widget-49-date-month">BI</span>
+                                </div>
+                                <div class="widget-49-meeting-info">
+                                    <span class="widget-49-pro-title">Análise de Dados e Business Intelligence</span>
+                                </div>
+                            </div>
+                            <ol class="widget-49-meeting-points">
+                                <li class="widget-49-meeting-item"><span>Coleta de Dados.</span></li>
+                                <li class="widget-49-meeting-item"><span>Armazenamento e Gerenciamento de Dados.</span></li>
+                                <li class="widget-49-meeting-item"><span>Mineração de Dados.</span></li>
+                            </ol>
+                            <div class="widget-49-meeting-action">
+                                <a href class="btn btn-sm btn-flash-border-success">View All</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="card card-margin">
+                    <div class="card-header no-border">
+                    </div>
+                    <div class="card-body pt-0">
+                        <div class="widget-49">
+                            <div class="widget-49-title-wrapper">
+                                <div class="widget-49-date-success">
+                                    <span class="widget-49-date-day">6</span>
                                     <span class="widget-49-date-month">CONSULT</span>
                                 </div>
                                 <div class="widget-49-meeting-info">
@@ -74,9 +157,9 @@ const Service = () =>{
                                 </div>
                             </div>
                             <ol class="widget-49-meeting-points">
-                                <li class="widget-49-meeting-item"><span>Planejamento e otimização de redes e servidores</span></li>
-                                <li class="widget-49-meeting-item"><span>Estratégias para adoção de novas tecnologias</span></li>
-                                <li class="widget-49-meeting-item"><span>Alinhamento da tecnologia com os objetivos de negócio, planejamento de TI.</span></li>
+                                <li class="widget-49-meeting-item"><span>Avaliação e Diagnóstico</span></li>
+                                <li class="widget-49-meeting-item"><span>Planejamento Estratégico</span></li>
+                                <li class="widget-49-meeting-item"><span>Consultoria em Inovação Tecnológica.</span></li>
                             </ol>
                             <div class="widget-49-meeting-action">
                                 <a href class="btn btn-sm btn-flash-border-success">View All</a>
