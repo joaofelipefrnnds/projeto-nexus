@@ -7,6 +7,7 @@ const Home = () =>{
 
   return(
       <main class="d-flex flex-wrap">
+
         <div class="col-6 mt-5 border-end d-flex justify-content-center align-items-center">
           <img src={Logo} alt="Logo"/>
         </div>
@@ -18,9 +19,7 @@ const Home = () =>{
             Com uma equipe dedicada de especialistas em Desenvolvimento Web,
             estamos aqui para simplificar e transformar a forma que sua empresa é vista.</p>
             <button class="mt-3"><Link to='/Service' style={{ textDecoration: 'none',  color: 'white'}}>Acessar Serviço</Link></button>
-        </div>
-
-    
+        </div>    
       </main>
   )
 }
